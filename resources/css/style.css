@@ -2,3 +2,34 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+h1 {
+  font-weight: bold;
+  font-size: 70px;
+}
+a {
+  color: white;
+}
+.banner,
+.midbanner {
+  background-image: url("../media/building.png");
+  color: white;
+}
+.menu {
+  font-weight: bold;
+  font-size: 18px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.bottom {
+  color: white;
+  background-color: dimgray;
+}
